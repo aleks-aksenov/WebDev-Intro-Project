@@ -1,0 +1,8 @@
+h1 {
+    color: darkgreen;
+    font-size: 60px;
+    font-weight: normal;
+    text-decoration: underline;
+    text-transform: uppercase;
+    border: 3px solid gold;
+}
